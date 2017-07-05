@@ -1,3 +1,4 @@
+<!-- Created by Kayla Gordon -->
 <!DOCTYPE html>
 <html>
 <head>
@@ -86,12 +87,11 @@
 		}
 	</style>
 	
-	<title>Challenge 3</title>
+	<title>YouTube Alarm Clock</title>
 </head>
 <body>
 	<div id="layout" class="container">
-	<h1>Challenge Three</h1>
-		<h4>YouTube API Challenge</h4>
+	<h1>YouTube Alarm Clock</h1>
 		<p>This solution was developed using PHP and ajax.</p>
 		<br />
 	
@@ -297,7 +297,6 @@
 			})
 		}
 	</script>	
-	
 	
 </body>
 </html>
